@@ -8,7 +8,7 @@
 <div style="background-color:#0d1117; padding:20px; border-radius:10px; color:#ffffff; font-family:monospace;">
 
 
-┌──(<span style="color:red;">root㉿root</span>)-[~]
+┌──(root㉿root-[~]
 
 └─$ whoami
 
@@ -117,16 +117,5 @@ Estou em constante aprendizado e acredito que o conhecimento deve ser compartilh
 
 </p>
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+
 
